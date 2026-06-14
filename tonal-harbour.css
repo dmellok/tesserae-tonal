@@ -1,0 +1,20 @@
+[data-theme="tonal-harbour"] {
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #E8EFEF;
+  --surface:        #F3F8F8;
+  --surface-sunken: #D2DEDE;
+  --text-primary:   #14201F;
+  --text-secondary: #335251;
+  --text-muted:     #5F8281;
+  --icon:           var(--text-primary);
+  --edge:           #A9BFBE;
+
+  --accent-1: #2F8A78; --accent-1-soft: #CCE5DE;
+  --accent-2: #B5752A; --accent-2-soft: #EBDFC4;
+  --accent-3: #5F7E45; --accent-3-soft: #DBE3CC;
+  --accent-4: #506F8A; --accent-4-soft: #D5DEE7;
+  --accent-5: #7F4A6A; --accent-5-soft: #E2D2DC;
+  --accent-6: #B85730; --accent-6-soft: #ECD2C5;
+  --on-accent: #FFFFFF;
+}

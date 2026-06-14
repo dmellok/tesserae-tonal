@@ -1,0 +1,20 @@
+[data-theme="tonal-copper"] {
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #F3EAE3;
+  --surface:        #FAF4EE;
+  --surface-sunken: #E5D5C5;
+  --text-primary:   #2A1B10;
+  --text-secondary: #5C4530;
+  --text-muted:     #8E755A;
+  --icon:           var(--text-primary);
+  --edge:           #C8B093;
+
+  --accent-1: #A05B30; --accent-1-soft: #ECD3BF;
+  --accent-2: #A8801E; --accent-2-soft: #ECDDB8;
+  --accent-3: #506F8A; --accent-3-soft: #D5DEE7;
+  --accent-4: #5F7E45; --accent-4-soft: #DBE3CC;
+  --accent-5: #7F4A6A; --accent-5-soft: #E2D2DC;
+  --accent-6: #2F8A78; --accent-6-soft: #CCE5DE;
+  --on-accent: #FFFFFF;
+}

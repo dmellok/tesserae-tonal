@@ -1,0 +1,20 @@
+[data-theme="tonal-moss"] {
+  --font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --bg:             #EBEEE5;
+  --surface:        #F4F7EE;
+  --surface-sunken: #DCE3CF;
+  --text-primary:   #1E2415;
+  --text-secondary: #475036;
+  --text-muted:     #79825F;
+  --icon:           var(--text-primary);
+  --edge:           #B6BFA0;
+
+  --accent-1: #5F7E45; --accent-1-soft: #DBE3CC;
+  --accent-2: #A8801E; --accent-2-soft: #ECDDB8;
+  --accent-3: #506F8A; --accent-3-soft: #D5DEE7;
+  --accent-4: #B85730; --accent-4-soft: #ECD2C5;
+  --accent-5: #7F4A6A; --accent-5-soft: #E2D2DC;
+  --accent-6: #2F8A78; --accent-6-soft: #CCE5DE;
+  --on-accent: #FFFFFF;
+}

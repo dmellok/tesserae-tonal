@@ -45,4 +45,4 @@ Each `.json` declares the theme's id, name, family, and tagline; each `.css` is 
 
 ## License
 
-MIT. See [LICENSE](./LICENSE).
+AGPL-3.0-or-later. See [LICENSE](./LICENSE).
